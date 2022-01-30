@@ -5870,17 +5870,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kamrul\\.nuget\\packages\\": {}
+    "C:\\Users\\kamrul\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\Les Jackson\\Commander\\Commander\\Commander.csproj",
+      "projectUniqueName": "d:\\Practice\\Les Jackson\\Commander\\Commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "D:\\Practice\\Les Jackson\\Commander\\Commander\\Commander.csproj",
+      "projectPath": "d:\\Practice\\Les Jackson\\Commander\\Commander\\Commander.csproj",
       "packagesPath": "C:\\Users\\kamrul\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\Les Jackson\\Commander\\Commander\\obj\\",
+      "outputPath": "d:\\Practice\\Les Jackson\\Commander\\Commander\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\kamrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
